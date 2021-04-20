@@ -16,7 +16,7 @@ its own.
 
 </dl>
 
-[^1]: in order to have an elastic dynamic inclusion of data may it be through a third party api ou own onbording or directly in pipefy. critereas.
+[^1](in order to have an elastic dynamic inclusion of data may it be through a third party api ou own onbording or directly in pipefy. critereas.)
 
 
 </article>
